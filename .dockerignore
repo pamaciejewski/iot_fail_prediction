@@ -1,0 +1,7 @@
+# Exclude everything
+**
+
+# Allow specific directories and files
+!requirements.txt
+!app.py
+!model_weights.h5
