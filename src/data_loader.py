@@ -11,7 +11,6 @@ def download_file(url, filename):
 # URL to the CSV file on GitHub
 url = 'https://raw.githubusercontent.com/IBM/iot-predictive-analytics/master/data/iot_sensor_dataset.csv'
 
-# File name under which to save the downloaded data
 filename = 'data/iot_sensor_dataset.csv'
 
 download_file(url, filename)
